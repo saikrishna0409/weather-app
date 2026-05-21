@@ -1,4 +1,12 @@
 # Weather Data Pipeline
+# 🌦️ Real‑Time Weather Data Pipeline
+
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Airflow](https://img.shields.io/badge/Airflow-Orchestration-orange.svg)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+
 
 This project automates the extraction, transformation, and loading (ETL) of weather data. Built by Sai Krishna — Real-time Weather Data Pipeline using Python & Airflow.
 
