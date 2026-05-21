@@ -1,6 +1,6 @@
 # Weather Data Pipeline
 
-This project automates the extraction, transformation, and loading (ETL) of weather data.
+This project automates the extraction, transformation, and loading (ETL) of weather data. Built by Sai Krishna — Real-time Weather Data Pipeline using Python & Airflow.
 
 ## Project Structure
 - `dags/`: Airflow DAGs
