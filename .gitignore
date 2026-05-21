@@ -1,0 +1,8 @@
+# Ignore Visual Studio and system files
+.vs/
+*.vsidx
+*.sqlite
+*.slnx
+__pycache__/
+data/
+pgdata/

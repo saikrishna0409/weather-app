@@ -1,0 +1,10 @@
+# Configuration for weather data pipeline
+
+source:
+  raw_data_path: data/raw_weather.csv
+
+transform:
+  temperature_unit: celsius
+
+load:
+  destination_path: data/final_weather.csv
